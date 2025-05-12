@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Newspaper/FileContentIndex
+/.vs/Newspaper/v17
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/Source/Newspaper/.vs
+/Source/Newspaper/Generator
+/Source/Newspaper/Libraries/bin/Debug/net8.0
+/Source/Newspaper/Libraries/obj
